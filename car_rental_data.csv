@@ -1,0 +1,358 @@
+,Car_Name,Supplier,Tier,Seats,Storage,Pickup,Price
+0,Ford Focus,Thrifty,Compact,5,2,San Francisco International Airport,84.96
+1,Ford Fusion,Thrifty,Full-Size,5,3,San Francisco International Airport,101.12
+2,Ford Escape,Thrifty,Intermediate,5,3,San Francisco International Airport,101.50
+3,Toyota Yaris,Fox,Economy,4,1,Metropolitan Oakland International Airport,57
+4,Toyota Yaris,Fox Rent A Car,Economy,4,1,Metropolitan Oakland International Airport,71
+5,Wild Card,Fox,Compact,5,2,Metropolitan Oakland International Airport,57
+6,Nissan Versa,Fox,Compact,5,2,Metropolitan Oakland International Airport,58
+7,Wild Card,Fox Rent A Car,Special,5,2,Metropolitan Oakland International Airport,72
+8,Nissan Versa,Fox Rent A Car,Compact,5,2,Metropolitan Oakland International Airport,74
+9,Volkswagen Jetta,Thrifty,Standard,5,2,Metropolitan Oakland International Airport,76.65
+10,Ford Fiesta,Thrifty,Economy,4,1,Metropolitan Oakland International Airport,77.81
+11,Ford Focus,Thrifty,Compact,5,2,Metropolitan Oakland International Airport,77.83
+12,Ford Fusion,Thrifty,Full-Size,5,3,Metropolitan Oakland International Airport,79.82
+13,Volkswagen Jetta,Thrifty Car Rental,Standard,5,2,Metropolitan Oakland International Airport,81
+14,Ford Fiesta,Thrifty Car Rental,Economy,4,1,Metropolitan Oakland International Airport,82
+15,Ford Focus,Thrifty Car Rental,Compact,5,2,Metropolitan Oakland International Airport,82
+16,Buick Encore,Thrifty,Compact,5,3,Metropolitan Oakland International Airport,82.44
+17,Ford Fusion,Thrifty Car Rental,Full-Size,5,3,Metropolitan Oakland International Airport,84
+18,Ford Fiesta,Thrifty,Economy,4,1,San Francisco International Airport,84.90
+19,Ford Fiesta,Thrifty Car Rental,Economy,4,1,San Francisco International Airport,84
+20,Ford Focus,Thrifty Car Rental,Compact,5,2,San Francisco International Airport,84
+21,Hyundai Accent,Payless,Economy,5,1,Metropolitan Oakland International Airport,85
+22,Nissan Versa,Payless,Compact,5,2,Metropolitan Oakland International Airport,85
+23,Volkswagen Jetta,Fox,Standard,5,2,Metropolitan Oakland International Airport,85
+24,Jeep Renegade,Thrifty Car Rental,Compact,5,3,Metropolitan Oakland International Airport,87
+25,Toyota Camry,Fox,Full-Size,5,3,Metropolitan Oakland International Airport,87
+26,Toyota Corolla,Thrifty,Intermediate,5,2,San Francisco International Airport,90.23
+27,Toyota Corolla,Thrifty Car Rental,Intermediate,5,2,San Francisco International Airport,90
+28,Wild Card,Thrifty,Compact,5,2,Metropolitan Oakland International Airport,91.15
+29,Wild Card,Thrifty Car Rental,Compact,5,2,Metropolitan Oakland International Airport,91
+30,Dodge Charger,Fox,Full-Size,5,2,Metropolitan Oakland International Airport,91
+31,Wild Card,Thrifty,Special,5,2,Metropolitan Oakland International Airport,94.82
+32,Volkswagen Jetta,Thrifty,Standard,5,2,San Francisco International Airport,97.67
+33,Wild Card,Thrifty Car Rental,Special,4,2,Metropolitan Oakland International Airport,99
+34,Chrysler 300,Fox,Luxury,5,2,Metropolitan Oakland International Airport,100
+35,Toyota Corolla,Fox,Intermediate,5,2,Metropolitan Oakland International Airport,101
+36,Ford Escape,Thrifty Car Rental,Intermediate,5,3,San Francisco International Airport,101
+37,Ford Eco Sport,Fox,Intermediate,5,3,Metropolitan Oakland International Airport,103
+38,Buick Encore,Thrifty,Compact,5,3,San Francisco International Airport,104.00
+39,Volkswagen Jetta,Thrifty Car Rental,Standard,5,2,San Francisco International Airport,104
+40,Chrysler 200,Payless,Standard,5,2,Metropolitan Oakland International Airport,106
+41,Ford Fusion,Thrifty Car Rental,Full-Size,5,3,San Francisco International Airport,107
+42,Wild Card,Thrifty,Compact,5,2,San Francisco International Airport,108.32
+43,Volkswagen Jetta,Fox Rent A Car,Standard,5,2,Metropolitan Oakland International Airport,109
+44,Jeep Renegade,Thrifty Car Rental,Compact,5,3,San Francisco International Airport,111
+45,Hyundai Sonata,Payless,Full-Size,5,3,Metropolitan Oakland International Airport,112
+46,Toyota Camry,Fox Rent A Car,Full-Size,5,3,Metropolitan Oakland International Airport,112
+47,Dodge Charger,Fox Rent A Car,Full-Size,5,2,Metropolitan Oakland International Airport,117
+48,Hyundai Veloster,Hertz,Economy,4,1,Metropolitan Oakland International Airport,92
+49,Nissan Versa,Hertz,Compact,5,2,Metropolitan Oakland International Airport,92
+50,Toyota Corolla,Hertz,Intermediate,5,2,Metropolitan Oakland International Airport,95
+51,Nissan Sentra,Dollar,Intermediate,5,2,Metropolitan Oakland International Airport,121.42
+52,Wild Card,Dollar,Compact,5,2,Metropolitan Oakland International Airport,122.52
+53,Hyundai Accent,Dollar,Compact,5,1,Metropolitan Oakland International Airport,124.17
+54,Nissan Frontier,Alamo,Intermediate,5,4,Metropolitan Oakland International Airport,124
+55,Kia e-Niro,Thrifty,Compact,5,3,Metropolitan Oakland International Airport,126.96
+56,Kia e-Niro,Dollar,Compact,5,3,Metropolitan Oakland International Airport,126.96
+57,Volkswagen Jetta,Dollar,Standard,5,2,Metropolitan Oakland International Airport,128.15
+58,Chrysler 300,Fox Rent A Car,Luxury,5,2,Metropolitan Oakland International Airport,129
+59,Toyota Corolla,Fox Rent A Car,Intermediate,5,2,Metropolitan Oakland International Airport,130
+60,Hyundai Santa Fe,Dollar,Standard,5,3,Metropolitan Oakland International Airport,131.58
+61,Volkswagen Jetta,Hertz,Standard,5,2,Metropolitan Oakland International Airport,104
+62,Ford Eco Sport,Fox Rent A Car,Intermediate,5,3,Metropolitan Oakland International Airport,133
+63,Hyundai Veloster,Hertz,Economy,4,1,San Francisco International Airport,91
+64,Nissan Altima,Dollar,Full-Size,5,3,Metropolitan Oakland International Airport,134.04
+65,Wild Card,Thrifty,Special,5,2,San Francisco International Airport,135.31
+66,Nissan Versa,Hertz,Compact,5,2,San Francisco International Airport,93
+67,Dodge Ram,Alamo,Standard,4,4,Metropolitan Oakland International Airport,138
+68,Toyota Corolla,Hertz,Intermediate,5,2,San Francisco International Airport,96
+69,Buick Encore,Dollar,Compact,5,3,Metropolitan Oakland International Airport,139.38
+70,Buick Verano,Hertz,Standard,5,2,Metropolitan Oakland International Airport,110
+71,Toyota Corolla,Payless,Intermediate,5,2,Metropolitan Oakland International Airport,139
+72,Wild Card,Alamo,Special,4,2,Metropolitan Oakland International Airport,140
+73,Nissan Rogue,Hertz,Intermediate,5,3,Metropolitan Oakland International Airport,110
+74,Jeep Cherokee,Payless,Intermediate,5,3,Metropolitan Oakland International Airport,141
+75,Nissan Versa,Alamo,Compact,4,2,Metropolitan Oakland International Airport,141
+76,Chevrolet Spark,Alamo,Economy,4,1,Metropolitan Oakland International Airport,141
+77,Toyota Corolla,Thrifty,Intermediate,5,2,Metropolitan Oakland International Airport,142.49
+78,Chevrolet Colorado,Enterprise,Standard,4,4,Metropolitan Oakland International Airport,142
+79,Wild Card,Thrifty Car Rental,Compact,5,2,San Francisco International Airport,143
+80,Wild Card,Thrifty Car Rental,Special,4,2,San Francisco International Airport,143
+81,Hyundai Elantra,Alamo,Intermediate,5,2,San Francisco International Airport,143
+82,Chevrolet Spark,Alamo,Economy,4,1,San Francisco International Airport,144
+83,Chevrolet Spark,Dollar,Economy,4,1,San Francisco International Airport,144.86
+84,Buick Encore,Hertz,Compact,5,3,Metropolitan Oakland International Airport,115
+85,Toyota RAV4,Dollar,Intermediate,5,3,Metropolitan Oakland International Airport,145.22
+86,Nissan Versa,Alamo,Compact,4,2,San Francisco International Airport,146
+87,Wild Card,Dollar,Special,5,2,Metropolitan Oakland International Airport,147.66
+88,Jeep Cherokee,Payless,Intermediate,5,3,Metropolitan Oakland International Airport,147
+89,Chevrolet Silverado,Budget,Economy,5,4,Metropolitan Oakland International Airport,148
+90,Hyundai Elantra,Alamo,Intermediate,5,2,Metropolitan Oakland International Airport,149
+91,Nissan Frontier,Dollar,Full-Size,5,4,San Francisco International Airport,149.93
+92,Wild Card,Dollar,Compact,5,2,San Francisco International Airport,149.94
+93,Nissan Sentra,Dollar,Intermediate,5,2,San Francisco International Airport,150.78
+94,Hyundai Santa Fe,Thrifty,Standard,5,3,Metropolitan Oakland International Airport,153.33
+95,Ford Escape,Thrifty,Intermediate,5,3,Metropolitan Oakland International Airport,153.96
+96,Toyota Corolla,Thrifty Car Rental,Intermediate,5,2,Metropolitan Oakland International Airport,154
+97,Volkswagen Jetta,Hertz,Standard,5,2,San Francisco International Airport,109
+98,Buick Verano,Alamo,Standard,5,2,Metropolitan Oakland International Airport,154
+99,Jeep Renegade,Alamo,Compact,5,3,San Francisco International Airport,155
+100,Nissan Altima,Alamo,Full-Size,5,3,Metropolitan Oakland International Airport,155
+101,Buick Verano,Alamo,Standard,5,2,San Francisco International Airport,157
+102,Nissan Altima,Alamo,Full-Size,5,3,San Francisco International Airport,157
+103,Jeep Grand Cherokee,Fox,Standard,5,3,Metropolitan Oakland International Airport,157
+104,Ford F150,Enterprise,Premium,4,4,Metropolitan Oakland International Airport,158
+105,Hyundai Santa Fe,Dollar,Standard,5,3,San Francisco International Airport,160.18
+106,Buick Regal,Dollar,Premium,5,2,Metropolitan Oakland International Airport,160.28
+107,Volkswagen Jetta,Dollar,Standard,5,2,San Francisco International Airport,160.53
+108,Buick Verano,Hertz,Standard,5,2,San Francisco International Airport,114
+109,Wild Card,Budget,Special,5,2,Metropolitan Oakland International Airport,161
+110,Wild Card,Avis,Special,5,2,Metropolitan Oakland International Airport,161
+111,Kia e-Niro,Thrifty,Compact,5,3,San Francisco International Airport,162.35
+112,Kia e-Niro,Dollar,Compact,5,3,San Francisco International Airport,162.35
+113,Ford Escape,Thrifty Car Rental,Intermediate,5,3,Metropolitan Oakland International Airport,162
+114,Nissan Rogue,Alamo,Intermediate,5,3,San Francisco International Airport,163
+115,Ford Explorer,Fox,Full-Size,5,3,Metropolitan Oakland International Airport,165
+116,GMC Terrain,Hertz,Standard,5,3,Metropolitan Oakland International Airport,131
+117,Chevrolet Silverado,Avis,Economy,5,4,Metropolitan Oakland International Airport,166
+118,Ford Fiesta,Budget,Compact,4,2,Metropolitan Oakland International Airport,166
+119,Buick Encore,Hertz,Compact,5,3,San Francisco International Airport,120
+120,Nissan Altima,Dollar,Full-Size,5,3,San Francisco International Airport,167.27
+121,Nissan Rogue,Hertz,Intermediate,5,3,San Francisco International Airport,120
+122,Hyundai Accent,Dollar,Compact,5,2,Metropolitan Oakland International Airport,168
+123,Nissan Maxima,Alamo,Premium,5,2,San Francisco International Airport,169
+124,Buick Regal,Dollar,Premium,5,2,San Francisco International Airport,169.10
+125,GMC Terrain,Hertz,Standard,5,3,San Francisco International Airport,123
+126,Toyota RAV4,Dollar,Intermediate,5,3,San Francisco International Airport,172.12
+127,Hyundai Elantra,Budget,Intermediate,5,2,Metropolitan Oakland International Airport,172
+128,Kia e-Niro,Thrifty Car Rental,Compact,5,3,Metropolitan Oakland International Airport,172
+129,Buick Encore,Dollar,Compact,5,3,San Francisco International Airport,173.47
+130,Hyundai Santa Fe,Thrifty Car Rental,Standard,5,3,Metropolitan Oakland International Airport,174
+131,Ford Mustang Cabrio,Alamo,Standard,4,2,San Francisco International Airport,175
+132,Ford Mustang Cabrio,Dollar,Standard,4,3,San Francisco International Airport,175.43
+133,Wild Card,Hertz,Compact,5,4,Metropolitan Oakland International Airport,176
+134,Jeep Renegade,Alamo,Compact,5,2,Metropolitan Oakland International Airport,179
+135,Nissan Frontier,Thrifty,Intermediate,5,1,San Francisco International Airport,179.79
+136,Wild Card,Enterprise,Special,5,2,Metropolitan Oakland International Airport,180
+137,Mitsubishi Mirage,Enterprise,Economy,4,2,San Francisco International Airport,181
+138,Nissan Versa,Enterprise,Compact,5,2,San Francisco International Airport,181
+139,Toyota Corolla,Enterprise,Intermediate,5,2,Metropolitan Oakland International Airport,181
+140,Buick Verano,Budget,Standard,5,3,Metropolitan Oakland International Airport,182
+141,Toyota Corolla,Enterprise,Intermediate,5,1,San Francisco International Airport,182
+142,Ford Fusion,Budget,Full-Size,5,2,Metropolitan Oakland International Airport,182
+143,Mitsubishi Mirage,Enterprise,Economy,4,2,Metropolitan Oakland International Airport,183
+144,Nissan Versa,Enterprise,Compact,5,2,Metropolitan Oakland International Airport,183
+145,Cadillac XTS,Alamo,Luxury,5,2,Metropolitan Oakland International Airport,185
+146,Chrysler 300,Dollar,Luxury,5,2,Metropolitan Oakland International Airport,185.34
+147,Cadillac XTS,Alamo,Luxury,5,3,San Francisco International Airport,185
+148,Chrysler 300,Dollar,Luxury,5,2,San Francisco International Airport,185.71
+149,Kia e-Niro,Hertz,Compact,5,3,Metropolitan Oakland International Airport,185
+150,Chevrolet Camaro,Alamo,Standard,4,3,San Francisco International Airport,186
+151,Hyundai Santa Fe,Alamo,Standard,5,2,San Francisco International Airport,186
+152,Hyundai Santa Fe,Thrifty,Standard,5,2,San Francisco International Airport,186.47
+153,Dodge Challenger,Enterprise,Standard,4,2,Metropolitan Oakland International Airport,186
+154,Volkswagen Jetta,Enterprise,Standard,5,2,San Francisco International Airport,187
+155,Nissan Maxima,Alamo,Premium,5,2,Metropolitan Oakland International Airport,187
+156,Chevrolet Impala,Thrifty,Premium,5,3,Metropolitan Oakland International Airport,187.81
+157,Toyota Corolla,National,Intermediate,5,2,Metropolitan Oakland International Airport,188
+158,Nissan Rogue,Alamo,Intermediate,5,3,Metropolitan Oakland International Airport,189
+159,Chevrolet Impala,Hertz,Premium,5,1,Metropolitan Oakland International Airport,152
+160,Hyundai Santa Fe,Alamo,Standard,5,2,Metropolitan Oakland International Airport,190
+161,Mitsubishi Mirage,National,Economy,4,1,Metropolitan Oakland International Airport,191
+162,Nissan Versa,National,Compact,5,2,Metropolitan Oakland International Airport,192
+163,Ford Fiesta,Avis,Economy,4,2,Metropolitan Oakland International Airport,192
+164,Ford Focus,Avis,Compact,5,2,Metropolitan Oakland International Airport,192
+165,Volkswagen Jetta,Enterprise,Standard,5,2,Metropolitan Oakland International Airport,193
+166,Chevrolet Cruze,Avis,Intermediate,5,3,Metropolitan Oakland International Airport,194
+167,Nissan Versa,Sixt,Compact,5,2,San Francisco International Airport,195
+168,Hyundai Santa Fe,Thrifty Car Rental,Standard,5,3,San Francisco International Airport,196
+169,Ford Mustang Coupe,Budget,Standard,4,3,Metropolitan Oakland International Airport,196
+170,Nissan Kicks,Enterprise,Compact,5,3,San Francisco International Airport,196
+171,Chevrolet Malibu,Enterprise,Full-Size,5,1,San Francisco International Airport,198
+172,Chevrolet Malibu,Enterprise,Full-Size,5,3,Metropolitan Oakland International Airport,200
+173,Fiat 500,Hertz,Economy,4,3,San Francisco - Yerba Buena,200
+174,Ford Edge,Enterprise,Standard,5,2,Metropolitan Oakland International Airport,201
+175,Nissan Kicks,National,Compact,5,2,Metropolitan Oakland International Airport,201
+176,Chevrolet Impala,Thrifty,Premium,5,2,San Francisco International Airport,202.93
+177,Wild Card,Dollar,Special,5,2,San Francisco International Airport,203.09
+178,Tesla Model 3,Hertz,Premium,5,2,San Francisco International Airport,150
+179,Hyundai Accent,Dollar,Compact,5,2,San Francisco International Airport,204
+180,Chrysler 300,Enterprise,Luxury,5,2,Metropolitan Oakland International Airport,205
+181,Chrysler 300,Hertz,Luxury,5,3,Metropolitan Oakland International Airport,166
+182,Nissan Sentra,Sixt,Intermediate,5,3,San Francisco International Airport,206
+183,Nissan Kicks,Enterprise,Compact,5,2,Metropolitan Oakland International Airport,206
+184,Jeep Grand Cherokee,Fox Rent A Car,Standard,5,3,Metropolitan Oakland International Airport,206
+185,Chevrolet Camaro,Alamo,Standard,4,2,Metropolitan Oakland International Airport,206
+186,Nissan Rogue,Enterprise,Intermediate,5,2,San Francisco International Airport,206
+187,Ford Mustang Cabrio,Hertz,Standard,4,2,San Francisco International Airport,153
+188,Toyota Corolla,Sixt,Intermediate,5,3,San Francisco International Airport,206
+189,Volkswagen Jetta,National,Standard,5,4,Metropolitan Oakland International Airport,207
+190,Nissan Maxima,Enterprise,Premium,5,3,Metropolitan Oakland International Airport,207
+191,Ford Escape,Budget,Intermediate,5,2,Metropolitan Oakland International Airport,208
+192,Ford F150,National,Premium,4,2,Metropolitan Oakland International Airport,210
+193,Ford Mustang Cabrio,Thrifty,Standard,4,2,San Francisco International Airport,210.40
+194,Nissan Rogue,National,Intermediate,5,3,Metropolitan Oakland International Airport,211
+195,Nissan Versa,Hertz,Compact,5,3,San Francisco - Yerba Buena,213
+196,Chevrolet Impala,Thrifty Car Rental,Premium,5,2,Metropolitan Oakland International Airport,214
+197,Buick Verano,Avis,Standard,5,3,Metropolitan Oakland International Airport,215
+198,Ford Fusion,Avis,Full-Size,5,2,Metropolitan Oakland International Airport,215
+199,Ford Explorer,Fox Rent A Car,Full-Size,5,3,Metropolitan Oakland International Airport,216
+200,Buick LaCrosse,Thrifty,Luxury,5,2,Metropolitan Oakland International Airport,216.90
+201,Nissan Rogue,Enterprise,Intermediate,5,2,Metropolitan Oakland International Airport,216
+202,Toyota Camry,Sixt,Premium,5,2,San Francisco International Airport,217
+203,Chevrolet Malibu,Hertz,Full-Size,5,3,Metropolitan Oakland International Airport,217
+204,Chevrolet Cruze,Hertz,Intermediate,5,2,San Francisco - Yerba Buena,218
+205,Nissan Maxima,Enterprise,Premium,5,3,San Francisco International Airport,219
+206,Ford Taurus,Budget,Premium,5,2,Metropolitan Oakland International Airport,219
+207,Chevrolet Malibu,Hertz,Full-Size,5,2,San Francisco - Yerba Buena,221
+208,Buick LaCrosse,Thrifty,Luxury,5,3,San Francisco International Airport,222.38
+209,Ford Edge,Enterprise,Standard,5,2,San Francisco International Airport,222
+210,Ford Mustang Cabrio,Enterprise,Standard,4,3,San Francisco International Airport,222
+211,Wild Card,Avis,Special,5,3,San Francisco International Airport,222
+212,Wild Card,Budget,Special,5,3,San Francisco International Airport,222
+213,Ford Edge,Budget,Standard,5,3,Metropolitan Oakland International Airport,223
+214,Chrysler 300,Enterprise,Luxury,5,2,San Francisco International Airport,224
+215,Chevrolet Tahoe,Alamo,Full-Size,7,2,San Francisco International Airport,225
+216,Nissan Armada,Dollar,Full-Size,7,4,San Francisco International Airport,225.10
+217,Toyota Camry,Sixt,Full-Size,5,3,San Francisco International Airport,227
+218,Ford Escape,Avis,Intermediate,5,3,Metropolitan Oakland International Airport,228
+219,Ford Mustang,Avis,Special,4,3,Metropolitan Oakland International Airport,229
+220,Chevrolet Camaro,Sixt,Standard,4,2,San Francisco International Airport,229
+221,Toyota Tacoma,Budget,Standard,5,2,San Francisco International Airport,229
+222,Chevrolet Captiva,Hertz,Intermediate,5,3,San Francisco - Yerba Buena,231
+223,Audi Q3,Enterprise,Premium,5,4,San Francisco International Airport,231
+224,Kia e-Niro,Thrifty Car Rental,Compact,5,3,San Francisco International Airport,231
+225,Ford Mustang Cabrio,Alamo,Standard,4,3,Metropolitan Oakland International Airport,234
+226,Hyundai Elantra,Budget,Intermediate,5,2,San Francisco International Airport,234
+227,Ford Mustang Cabrio,Enterprise,Standard,4,2,Metropolitan Oakland International Airport,234
+228,Chevrolet Impala,Thrifty Car Rental,Premium,5,2,San Francisco International Airport,234
+229,Jeep Wrangler,Budget,Compact,5,3,Metropolitan Oakland International Airport,234
+230,Nissan Quest,Dollar,Minivan,7,2,San Francisco International Airport,236.03
+231,Ford Explorer,Budget,Full-Size,7,3,Metropolitan Oakland International Airport,237
+232,Ford Edge,Avis,Standard,5,2,Metropolitan Oakland International Airport,238
+233,Ford Fiesta,Budget,Compact,4,3,San Francisco International Airport,238
+234,Wild Card,Hertz,Compact,5,3,San Francisco International Airport,239
+235,Audi A4,National,Luxury,5,3,Metropolitan Oakland International Airport,239
+236,Audi Q3,Enterprise,Premium,5,4,Metropolitan Oakland International Airport,241
+237,Buick Verano,Budget,Standard,5,2,San Francisco International Airport,241
+238,Ford Fusion,Budget,Full-Size,5,2,San Francisco International Airport,242
+239,Ford Mustang Cabrio,Thrifty Car Rental,Standard,4,1,San Francisco International Airport,242
+240,Ford Taurus,Budget,Premium,5,1,San Francisco International Airport,243
+241,Kia e-Niro,Hertz,Compact,5,3,San Francisco International Airport,244
+242,Ford Escape,Budget,Intermediate,5,4,San Francisco International Airport,245
+243,Nissan Kicks,National,Compact,5,2,San Francisco International Airport,245
+244,Toyota Tacoma,Avis,Standard,5,2,San Francisco International Airport,247
+245,Volkswagen Jetta,National,Standard,5,2,San Francisco International Airport,247
+246,Buick LaCrosse,Thrifty Car Rental,Luxury,5,2,Metropolitan Oakland International Airport,247
+247,Mitsubishi Mirage,National,Economy,4,3,San Francisco International Airport,249
+248,Ford Fiesta,Avis,Economy,4,2,San Francisco International Airport,249
+249,Jeep Wrangler,Avis,Compact,5,3,Metropolitan Oakland International Airport,249
+250,Chevrolet Silverado,Budget,Economy,5,2,San Francisco International Airport,251
+251,Nissan Versa,National,Compact,5,2,San Francisco International Airport,251
+252,Ford Focus,Avis,Compact,5,2,San Francisco International Airport,251
+253,Toyota Corolla,National,Intermediate,5,4,San Francisco International Airport,251
+254,Chevrolet Cruze,Avis,Intermediate,5,4,San Francisco International Airport,251
+255,Chevrolet Traverse,Avis,Premium,7,4,Metropolitan Oakland International Airport,252
+256,Lincoln MKZ,Budget,Luxury,5,2,Metropolitan Oakland International Airport,253
+257,Toyota Prius,Budget,Full-Size,5,3,San Francisco International Airport,254
+258,Ford Mustang Cabrio,Budget,Standard,4,3,San Francisco International Airport,255
+259,Nissan Leaf,Alamo,Intermediate,5,3,San Francisco International Airport,255
+260,Ford Mustang Coupe,Budget,Standard,4,2,San Francisco International Airport,256
+261,Buick LaCrosse,Thrifty Car Rental,Luxury,5,3,San Francisco International Airport,256
+262,Dodge Caravan,Alamo,Full-Size,7,3,Metropolitan Oakland International Airport,256
+263,Chrysler Pacifica,Enterprise,Full-Size,7,3,Metropolitan Oakland International Airport,256
+264,Chrysler Pacifica,National,Full-Size,7,2,Metropolitan Oakland International Airport,256
+265,BMW 5 Series,Sixt,Luxury,5,3,San Francisco International Airport,257
+266,Nissan Rogue,National,Intermediate,5,2,San Francisco International Airport,258
+267,Ford Edge AWD,Enterprise,Full-Size,5,2,San Francisco International Airport,260
+268,Chevrolet Malibu,Hertz,Full-Size,5,3,San Francisco International Airport,262
+269,Buick Verano,Avis,Standard,5,4,San Francisco International Airport,262
+270,Chevrolet Tahoe,Thrifty,Full-Size,7,4,San Francisco International Airport,262.58
+271,Ford Fusion,Avis,Full-Size,5,3,San Francisco International Airport,262
+272,Ford Edge,Budget,Standard,5,3,San Francisco International Airport,263
+273,Lincoln MKZ,Budget,Luxury,5,3,San Francisco International Airport,267
+274,Ford Escape,Avis,Intermediate,5,2,San Francisco International Airport,268
+275,Nissan Leaf,National,Intermediate,5,4,San Francisco International Airport,268
+276,Mercedes E-Class,Sixt,Luxury,5,2,San Francisco International Airport,268
+277,Chevrolet Traverse,Dollar,Premium,7,3,San Francisco International Airport,268.99
+278,Chevrolet Silverado,Avis,Economy,5,4,San Francisco International Airport,269
+279,Ford Mustang Cabrio,Budget,Standard,4,3,Metropolitan Oakland International Airport,271
+280,Dodge Grand Caravan,Budget,Standard,7,3,Metropolitan Oakland International Airport,272
+281,Jeep Wrangler,Budget,Compact,5,2,San Francisco International Airport,274
+282,Chevrolet Tahoe,Enterprise,Full-Size,7,2,San Francisco International Airport,275
+283,Toyota Prius,Avis,Full-Size,5,3,San Francisco International Airport,275
+284,Ford Mustang,Avis,Special,4,3,San Francisco International Airport,276
+285,Dodge Grand Caravan,Thrifty,Standard,7,4,San Francisco International Airport,278.33
+286,Ford Taurus,Avis,Premium,5,4,Metropolitan Oakland International Airport,279
+287,GMC Terrain,Hertz,Standard,5,2,San Francisco - Yerba Buena,279
+288,Nissan Frontier,Hertz,Intermediate,5,3,San Francisco - Yerba Buena,280
+289,Ford Edge,Avis,Standard,5,3,San Francisco International Airport,280
+290,Ford Edge AWD,Enterprise,Full-Size,5,3,Metropolitan Oakland International Airport,280
+291,Ford Taurus,Avis,Premium,5,3,San Francisco International Airport,289
+292,Audi A4,National,Luxury,5,3,San Francisco International Airport,289
+293,Ford Explorer,Budget,Full-Size,7,3,San Francisco International Airport,289
+294,Jeep Wrangler,Avis,Compact,5,4,San Francisco International Airport,292
+295,Dodge Caravan,Alamo,Full-Size,7,2,San Francisco International Airport,295
+296,Chrysler Pacifica,Sixt,Full-Size,7,3,San Francisco International Airport,295
+297,Lincoln MKZ,Avis,Luxury,5,4,San Francisco International Airport,298
+298,Audi Q3,National,Premium,5,4,San Francisco International Airport,298
+299,Chevrolet Suburban,Alamo,Premium,7,3,San Francisco International Airport,298
+300,Chevrolet Suburban,Alamo,Premium,7,4,Metropolitan Oakland International Airport,301
+301,Chevrolet Tahoe,Thrifty Car Rental,Full-Size,7,3,San Francisco International Airport,301
+302,Chevrolet Trailblazer,Sixt,Compact,5,3,San Francisco International Airport,303
+303,BMW X3,National,Full-Size,5,3,San Francisco International Airport,304
+304,Nissan Quest,Hertz,Full-Size,7,2,San Francisco International Airport,238
+305,Lincoln MKZ,Avis,Luxury,5,3,Metropolitan Oakland International Airport,306
+306,Chevrolet Traverse,Avis,Premium,7,2,San Francisco International Airport,307
+307,Ford Transit,Alamo,Full-Size,12,4,San Francisco International Airport,309
+308,Ford Transit,Dollar,Full-Size,12,3,San Francisco International Airport,309.17
+309,Toyota Sequoia,Hertz,Luxury,7,3,San Francisco International Airport,248
+310,Chrysler Town & Country,Avis,Standard,7,4,Metropolitan Oakland International Airport,312
+311,Chevrolet Traverse,Thrifty,Premium,7,2,San Francisco International Airport,313.44
+312,Ford Mustang Cabrio,Avis,Standard,4,4,Metropolitan Oakland International Airport,314
+313,Audi Q3,National,Premium,5,3,Metropolitan Oakland International Airport,315
+314,BMW X3,National,Full-Size,5,4,Metropolitan Oakland International Airport,315
+315,Dodge Challenger,National,Premium,5,3,San Francisco International Airport,315
+316,Toyota RAV4,Sixt,Intermediate,5,4,San Francisco International Airport,316
+317,Wild Card,Hertz,Compact,5,4,San Francisco - Yerba Buena,319
+318,Dodge Grand Caravan,Thrifty Car Rental,Full-Size,7,3,San Francisco International Airport,319
+319,Chevrolet Suburban,Enterprise,Full-Size,8,3,Metropolitan Oakland International Airport,321
+320,Chevrolet Suburban,Enterprise,Full-Size,8,3,San Francisco International Airport,328
+321,Dodge Grand Caravan,Budget,Standard,7,3,San Francisco International Airport,328
+322,Audi A3,National,Premium,5,3,San Francisco International Airport,335
+323,Ford Mustang Cabrio,Avis,Standard,4,3,San Francisco International Airport,337
+324,Chrysler Pacifica,Enterprise,Full-Size,7,3,San Francisco International Airport,340
+325,BMW X1,Sixt,Standard,5,2,San Francisco International Airport,344
+326,Toyota Sienna,Dollar,Standard,8,3,San Francisco International Airport,347
+327,BMW X3,Budget,Premium,5,3,Metropolitan Oakland International Airport,348
+328,Ford Transit,Thrifty,Full-Size,12,4,San Francisco International Airport,351.04
+329,Ford Transit,Enterprise,Full-Size,15,3,San Francisco International Airport,359
+330,Ford Expedition,Thrifty Car Rental,Full-Size,7,3,San Francisco International Airport,359
+331,BMW X1,Sixt,Premium,5,3,San Francisco International Airport,361
+332,BMW X3,Sixt,Luxury,5,3,San Francisco International Airport,361
+333,BMW X3,Avis,Luxury,5,3,Metropolitan Oakland International Airport,363
+334,BMW X5,Budget,Special,5,4,Metropolitan Oakland International Airport,374
+335,BMW X5,Avis,Luxury,5,3,Metropolitan Oakland International Airport,389
+336,BMW X3,Budget,Premium,5,4,San Francisco International Airport,390
+337,Chrysler 300,Hertz,Luxury,5,3,San Francisco - Yerba Buena,394
+338,BMW X5,Sixt,Premium,5,3,San Francisco International Airport,394
+339,Chevrolet Suburban,Avis,Premium,7,4,Metropolitan Oakland International Airport,396
+340,Ford Transit,Thrifty Car Rental,Full-Size,12,3,San Francisco International Airport,402
+341,BMW X3,Avis,Luxury,5,3,San Francisco International Airport,408
+342,BMW X5,Budget,Special,5,3,San Francisco International Airport,416
+343,Chevrolet Tahoe,Avis,Full-Size,7,NA,Metropolitan Oakland International Airport,430
+344,BMW X5,Avis,Luxury,5,NA,San Francisco International Airport,434
+345,BMW 4 Series,Sixt,Luxury,4,NA,San Francisco International Airport,471
+346,BMW X7,Sixt,Luxury,7,NA,San Francisco International Airport,471
+347,Chrysler Pacifica,National,Full-Size,7,NA,San Francisco International Airport,478
+348,Chevrolet Tahoe,Sixt,Full-Size,7,NA,San Francisco International Airport,487
+349,Chrysler Town & Country,Avis,Standard,7,NA,San Francisco International Airport,492
+350,Ford Expedition,Hertz,Full-Size,7,NA,San Francisco International Airport,494
+351,Chevrolet Suburban,Sixt,Premium,7,NA,San Francisco International Airport,503
+352,Ford Transit,National,Full-Size,12,NA,San Francisco International Airport,513
+353,Lincoln Navigator,Avis,Economy,7,NA,San Francisco International Airport,556
+354,Ford Mustang Cabrio,Hertz,Standard,4,NA,San Francisco - Yerba Buena,610
+355,Audi Q7,Enterprise,Luxury,7,NA,San Francisco International Airport,629
+356,Range Rover Sport,Enterprise,Luxury,5,NA,San Francisco International Airport,"1,055"
